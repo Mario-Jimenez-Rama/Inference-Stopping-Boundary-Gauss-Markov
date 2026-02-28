@@ -1,7 +1,5 @@
 Software companion for my master thesis "Parametric Inference on the Optimal Stopping Boundary for Gauss-Markov Processes".
 
-The title of each codes is pupose and the order in which it appears in the thesis.
+The title of each code is its pupose and the order in which it appears in the thesis. 
 
-There are 2 versions of the 3_estimated_distributions:
-- The _M change the number of paths, M, to compare the asymptotic distribution of the estimates.
-- The _N change the number of steps, N. This is the one used in the thesis.
+The non-enumeating codes belong to the Real-World Application of estimating the risk premium function by means of the One-factor Hull-White model.
